@@ -1,6 +1,9 @@
 {
-  "status": "success",
-  "server": "Online",
-  "message": "Connected to GitHub Backend",
-  "version": "1.0"
+  "status": "active",
+  "server_status": "online",
+  "auth": "granted",
+  "message": "System is protected",
+  "version": "1.0",
+  "is_blocked": false
 }
+
